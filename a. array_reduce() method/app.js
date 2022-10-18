@@ -38,7 +38,7 @@ const totalMaterialCost = materials.reduce((prev, material) => prev + material.c
 console.log(totalMaterialCost);  // return 104000;
 
 
-// Convert a two-dimensional array of key value pairs into an object
+// Convert a two-dimensional array of key value pairs into an object:------
 const keyValuePairs = [
     ['username', 'Jhone'],
     ['job', 'Actor'],
