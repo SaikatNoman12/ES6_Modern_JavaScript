@@ -1,0 +1,14 @@
+# Modern JavaScript ES6
+
+## Topics:
+
+1. Array reduce() method.
+
+2. Truthy and Falsy value.
+
+3. Array fat arrow function and this keyword.
+
+4. Ternary Operator.
+
+
+
