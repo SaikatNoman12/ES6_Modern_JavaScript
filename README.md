@@ -10,5 +10,9 @@
 
 4. Ternary Operator.
 
+5. Array find() method.
+
+6. Array findIndex method.
+
 
 
