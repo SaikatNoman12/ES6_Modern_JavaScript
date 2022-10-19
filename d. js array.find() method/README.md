@@ -1,7 +1,7 @@
 # JavaScript Array.find() method
 
 
-## find method:
+## find() method:
 
     // normal function;
     array.find(function(element, indexNum, array){
