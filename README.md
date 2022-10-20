@@ -12,7 +12,10 @@
 
 5. Array find() method.
 
-6. Array findIndex method.
+6. Array findIndex() method.
 
+7. Array slice() method.
+
+8. Array splice() method.
 
 
