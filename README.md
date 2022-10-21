@@ -36,4 +36,6 @@
 
 17. Object entries() method.
 
+18. Js function parameter default  value.
+
 
