@@ -18,4 +18,14 @@
 
 8. Array splice() method.
 
+9. Array concat() method.
+
+10. Array push() method.
+
+11. Array join() method.
+
+12. Array map() method.
+
+13. Array reduce() method.
+
 
