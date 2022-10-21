@@ -28,4 +28,12 @@
 
 13. Array reduce() method.
 
+14. Object shortcut 
+
+15. Object keys() method.
+
+16. Object values() method.
+
+17. Object entries() method.
+
 
