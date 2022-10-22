@@ -40,6 +40,8 @@
 
 19. Js spread operator.
 
-20. Js import and exports
+20. Js import and exports.
+
+21. Js template literals.
 
 
