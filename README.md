@@ -38,4 +38,6 @@
 
 18. Js function parameter default  value.
 
+19. Js spread operator.
+
 
