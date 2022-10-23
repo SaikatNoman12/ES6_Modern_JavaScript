@@ -46,3 +46,5 @@
 
 22. Js Set data structure.
 
+23. Js WeakSet data structure 
+
